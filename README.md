@@ -2,7 +2,7 @@
 
 ## Overview of Election Audit
 
-The purpose of the election audit analysis is to utilize for loops, creating dictinoaries, retreiving data, writing and reading a text file, using logical operators, and writing with f' strings.
+The purpose of the election audit analysis is to utilize for loops, creating dictionaries, retreiving data, writing and reading a text file, using logical operators, and writing with f' strings.
 
 ## Election-Audit Results
 
